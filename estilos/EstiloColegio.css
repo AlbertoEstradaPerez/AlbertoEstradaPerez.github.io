@@ -1,0 +1,49 @@
+#titu{
+    color: blue;
+    text-align: center;
+    font-family:sans-serif;
+    background: aqua;
+    border: 5px black solid;
+}
+#Entrada{
+    width: 400px;
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+    border:10px black double;
+}
+.p{
+    text-align: justify;
+}
+#domopequeño{
+    width: 400px;
+    display: inline-block;
+    float: right;
+    padding: 2px;
+    border: 10px black double;
+    margin-left: 5px;
+    }
+.titulos{
+      color: aquamarine;
+    font-family: monospace;
+    font-size: 30px
+}
+#domochiqui{
+    text-align: left;
+    color: aquamarine;
+    font-size: 30px;
+}
+#bañosentrada{
+    display:inline-block;
+    float: left;
+    width: 400px;
+    border: 9px black double;
+    margin-right: 6px;
+}
+#Segundopasillo{
+    width: 400px;
+    float: right;
+    display: inline-block;
+    border: 9px black double;
+    margin-left: 5px;
+}

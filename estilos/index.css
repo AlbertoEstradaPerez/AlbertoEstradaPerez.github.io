@@ -1,0 +1,33 @@
+#Escudo{
+    display: inline-block;
+    width: 15%;
+    float: left;
+}
+#LogoBacho{
+    display: inline-block;
+    width: 20%;
+}
+#Titulos{
+    display: inline-block;
+    width: 50%;
+}
+#Nav{
+    clear: both;
+}
+.Menu{
+    display: inline-block;
+    width: 14%;
+    background-color: aqua;
+    border: 8px Black double;
+    padding: 5px;
+    
+}
+#pie{
+    background-color:cornflowerblue;
+    color:cyan;
+    border: 10px darkslateblue double;
+    text-align: center;
+}
+html{
+    background-color:aliceblue
+}

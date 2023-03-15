@@ -1,0 +1,27 @@
+#titu{
+    text-align: center;
+    color: cornflowerblue;
+     font-size: 25px;
+}
+#imagen{
+    width: 600px;
+    border: 6px aqua dashed;
+    margin: 2px;
+    padding: 2px;
+}
+.subtitu{
+    font-size: 22px;
+    color: azure;
+    background-color: black;
+}
+.subti{
+    color: darkblue;
+    font-family: serif;
+    font-style: italic;
+    font-size: 25px;
+    
+}
+.p{
+    text-align: justify;
+    font-size: 19px;
+}

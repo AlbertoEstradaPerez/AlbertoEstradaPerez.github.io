@@ -1,0 +1,23 @@
+#titu{
+    color: blue;
+    font-family:fantasy;
+    text-align: center;
+    border: 8px aqua dotted;
+}
+#titu2{
+    color: blue;
+    font-family: fantasy;
+}
+#campamento{
+    float: left;
+    border: 8px black double;
+    margin-right: 15px;
+}
+#subti{
+    color: blue;
+    font-family: fantasy;
+}
+.p{
+    font-size: 20px;
+    text-align:justify;
+}

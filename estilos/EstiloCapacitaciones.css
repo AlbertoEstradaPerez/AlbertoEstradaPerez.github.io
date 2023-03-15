@@ -1,0 +1,74 @@
+#titu{
+    text-align:center;
+    font-family:fantasy;
+}
+.titus{
+    text-align: left;
+    font-family: monospace;
+    font-size: 25px;
+}
+#div1{
+    display: inline-block;
+    border: 9px black double;
+    margin: 2px;
+}
+#tics{
+    width: 400px;
+    display: inline-block;
+    float: left;
+    margin: 5px;
+    border: 3px blue dashed;
+}
+.p{
+    text-align: justify;
+    margin: 5px;
+    font-size: 19px;
+}
+#div2{
+    display: inline-block;
+    border: 9px black double;
+    margin: 2px;
+}
+#turismo{
+    width: 400px;
+    display: inline-block;
+    float: right;
+    margin: 4px;
+    border: 3px blue dashed;
+}
+#div3{
+    display: inline-block;
+    border: 9px black double;
+    margin: 2px;
+}
+#comunicacion{
+    width: 400px;
+    display: inline-block;
+    float: left;
+    margin: 5px;
+    border: 3px blue dashed;
+}
+#div4{
+    display: inline-block;
+    border: 9px black double;
+    margin: 2px;
+}
+#contabilidad{
+    width: 400px;
+    display: inline-block;
+    float: right;
+    margin: 5px;
+    border: 3px blue dashed;
+}
+#div5{
+    display: inline-block;
+    border: 2px black double;
+    margin: 2px;
+}
+#administracion{
+    width: 400px;
+    display: inline-block;
+    float: left;
+    margin: 5px;
+    border: 3px blue dashed;
+}
